@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  * Typescript
+  * Next JS
   * ES6
   * NodeJS
   * Framework Javascript
